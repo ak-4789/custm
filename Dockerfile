@@ -1,6 +1,6 @@
 FROM ubuntu
 
-COPY mian.sh /main.sh
+COPY main.sh /main.sh
 
 RUN chmod +x /main.sh
 
